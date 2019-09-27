@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Resep Makanan Indonesia</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="detil_makanan">Detil Makanan</string>
+    <string name="emailku">dhana_dhira@apps.ipb.ac.id</string>
+    <string name="namaku">Dhana Dhira</string>
+    <string name="about">About</string>
+    <string name="bahan">Bahan</string>
+    <string name="bullet"><![CDATA[>]]></string>
+    <string name="cara">Cara Memasak</string>
+    <string name="data_diterima">Data Diterima</string>
+</resources>
