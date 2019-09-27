@@ -100,8 +100,8 @@ public class DataMakanan {
                     "6. Lalukan cara yang sama untuk bikin kerak telur yang berikutnya. Sajikan.\n",
             "1. Dalam panci, didihkan 3 gelas air. Sisihkan.\n" +
                     "2. Dalam panci yang lain, campur tepung sagu, bawang putih, garam, dan 1 gelas air. Aduk rata.\n" +
-                    "4. Ambil air yang telah mendidih lalu tuangkan secara perlahan ke dalam campuran tepung sagu.\n" +
-                    "5. Masak campuran tepung sagu dengan api kecil sambil terus diaduk hingga mengental. Angkat dan siap disajikan.\n",
+                    "3. Ambil air yang telah mendidih lalu tuangkan secara perlahan ke dalam campuran tepung sagu.\n" +
+                    "4. Masak campuran tepung sagu dengan api kecil sambil terus diaduk hingga mengental. Angkat dan siap disajikan.\n",
             "1. Potong-potong tahu lalu sisihkan sebentar.\n" +
                     "2. Masak air bersama gula merah, kecap manis, kecap asin, gula merah dan air asam jawa sampai mendidih. Sisihkan sebentar.\n" +
                     "3. Siapkan cobek lalu ulek kasar bawang merah, bawang putih, cabai rawit, dan garam yang telah disiapkan. Siram dengan sedikit minyak panas. \n" +
