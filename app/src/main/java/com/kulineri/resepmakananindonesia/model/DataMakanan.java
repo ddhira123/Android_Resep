@@ -19,50 +19,50 @@ public class DataMakanan {
     };
 
     private static String[] detilMakanan = {
-            "Soto Mie Bogor adalah sajian mie dengan kuah kaldu yang menjadi salah satu masakan khas Sunda, khususnya di daerah Bogor, Jawa Barat. Soto mie Bogor sebenarnya punya kuah yang hampir sama seperti soto pada umumnya. Yang membedakan adalah isian utama yang dipakai berupa mie. Lalu diberi tambahan beberapa potongan risol bihun. Adapun di bawah ini bahan-bahan dan cara memasak Soto Mie Bogor itu sendiri.",
-            "Gado-gado adalah salah satu makanan khas Betawi.  Gado-gado terdiri dari sayur-mayur yang direbus dan dicampur jadi satu, dengan bumbu kacang yang dihaluskan. Dilengkapi dengan irisan telur rebus, timun, tahu, serta bawang goreng dapat menambah kenikmatan. Biasanya sayuran yang digunakan adalah tauge, kol, kentang, bayam, dan lain sebagainya. Gado gado biasanya disajikan dengan irisan lontong.",
-            "Ayam Taliwang adalah makanan khas Pulau Lombok dari Kampung Karang Taliwang, Kota Mataram, Nusa Tenggara Barat yang berbahan dasar daging ayam. Daging ayam yang disajikan berasal dari ayam kampung muda yang dibakar kemudian dibumbui dengan semacam saus yang bahannya antara lain cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan garam. Makanan ini biasanya disajikan bersama makanan khas Lombok yang lain, misalnya plecing kangkung.",
+            "Soto Mie Bogor adalah sajian mie dengan kuah kaldu yang menjadi salah satu masakan khas Sunda, khususnya di daerah Bogor, Jawa Barat. Soto mie Bogor sebenarnya punya kuah yang hampir sama seperti soto pada umumnya. Yang membedakan adalah isian utama yang dipakai berupa mie. Lalu diberi tambahan beberapa potongan risol bihun. Adapun di bawah ini bahan-bahan dan cara memasak Soto Mie Bogor itu sendiri.\n",
+            "Gado-gado adalah salah satu makanan khas Betawi.  Gado-gado terdiri dari sayur-mayur yang direbus dan dicampur jadi satu, dengan bumbu kacang yang dihaluskan. Dilengkapi dengan irisan telur rebus, timun, tahu, serta bawang goreng dapat menambah kenikmatan. Biasanya sayuran yang digunakan adalah tauge, kol, kentang, bayam, dan lain sebagainya. Gado gado biasanya disajikan dengan irisan lontong.\n",
+            "Ayam Taliwang adalah makanan khas Pulau Lombok dari Kampung Karang Taliwang, Kota Mataram, Nusa Tenggara Barat yang berbahan dasar daging ayam. Daging ayam yang disajikan berasal dari ayam kampung muda yang dibakar kemudian dibumbui dengan semacam saus yang bahannya antara lain cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan garam. Makanan ini biasanya disajikan bersama makanan khas Lombok yang lain, misalnya plecing kangkung.\n",
             "Sate Padang adalah sebutan untuk tiga jenis varian sate di Sumatra Barat, yaitu Sate Padang, Sate Padang Panjang dan Sate Pariaman.\n" +
                     "\n" +
                     "Sate Padang memakai bahan daging sapi, lidah, atau jerohan (jantung, usus, dan tetelan)[1] dengan bumbu kuah kacang kental (mirip bubur) ditambah cabai yang banyak sehingga rasanya pedas.",
             "Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir.",
             "Papeda atau bubur sagu adalah makanan pokok penduduk asli di Kepulauan Maluku dan Papua Barat. Papeda biasa ditemukan di Indonesia timur, sebagai makanan pokok mereka. \n" +
                     "\n" +
-                    "Papeda terbuat dengan memasak tepung sagu dengan air hingga mengental. Papeda memiliki tekstur yang kenyal seperti lem dan biasanya dimakan bersamaan dengan sup ikan kuning.",
-            "Tahu gejrot adalah makanan khas Cirebon, Indonesia yang terbuat dari tahu dan bumbu lainnya. Tahu gejrot terdiri dari tahu yang sudah digoreng kemudian dipotong agak kecil lalu dimakan dengan kuah yang bumbunya cabe, bawang putih, bawang merah, gula. Biasanya disajikan di layah kecil. Tahu gejrot juga merupakan jajanan khas daerah Cirebon yang digemari di kalangan anak-anak dan orang dewasa, karena sensasi rasanya yang khas.",
-            "Nasi uduk atau dalam bahasa Belanda Rijst vermengd met onrust van de liefde atau disingkat Jaloerse rijst adalah nama makanan yang terbuat dari bahan dasar nasi putih yang diaron dan dikukus dengan santan, serta dibumbui dengan pala, kayu manis, jahe, daun serai dan merica. Nasi uduk biasa dihidangkan dengan emping goreng, tahu goreng, telur dadar / telur goreng yang teriris, dan abon kering, tempe, bawang goreng, ayam goreng, timun serta sambal kacang.",
-            "Nasi liwet adalah makanan khas kota Solo dan merupakan kuliner asli daerah Baki, Kabupaten Sukoharjo. Nasi liwet adalah nasi gurih (dimasak dengan kelapa) mirip nasi uduk, yang disajikan dengan sayur labu siam, suwiran ayam (daging ayam dipotong kecil-kecil) dan areh (semacam bubur gurih dari kelapa).",
-            "Nasi goreng merupakan makanan khas Indonesia, dan pada dasarnya sama seperti makanan Indonesia lainnya yang memiliki banyak sekali variasi. Meski sudah ada berbagai macam variasi, pada dasarnya nasi goreng adalah nasi yang digoreng yang kemudian ditambahi dengan berbagai bumbu untuk kenikmatan yang lebih lagi."
+                    "Papeda terbuat dengan memasak tepung sagu dengan air hingga mengental. Papeda memiliki tekstur yang kenyal seperti lem dan biasanya dimakan bersamaan dengan sup ikan kuning.\n",
+            "Tahu gejrot adalah makanan khas Cirebon, Indonesia yang terbuat dari tahu dan bumbu lainnya. Tahu gejrot terdiri dari tahu yang sudah digoreng kemudian dipotong agak kecil lalu dimakan dengan kuah yang bumbunya cabe, bawang putih, bawang merah, gula. Biasanya disajikan di layah kecil. Tahu gejrot juga merupakan jajanan khas daerah Cirebon yang digemari di kalangan anak-anak dan orang dewasa, karena sensasi rasanya yang khas.\n",
+            "Nasi uduk atau dalam bahasa Belanda Rijst vermengd met onrust van de liefde atau disingkat Jaloerse rijst adalah nama makanan yang terbuat dari bahan dasar nasi putih yang diaron dan dikukus dengan santan, serta dibumbui dengan pala, kayu manis, jahe, daun serai dan merica. Nasi uduk biasa dihidangkan dengan emping goreng, tahu goreng, telur dadar / telur goreng yang teriris, dan abon kering, tempe, bawang goreng, ayam goreng, timun serta sambal kacang.\n",
+            "Nasi liwet adalah makanan khas kota Solo dan merupakan kuliner asli daerah Baki, Kabupaten Sukoharjo. Nasi liwet adalah nasi gurih (dimasak dengan kelapa) mirip nasi uduk, yang disajikan dengan sayur labu siam, suwiran ayam (daging ayam dipotong kecil-kecil) dan areh (semacam bubur gurih dari kelapa).\n",
+            "Nasi goreng merupakan makanan khas Indonesia, dan pada dasarnya sama seperti makanan Indonesia lainnya yang memiliki banyak sekali variasi. Meski sudah ada berbagai macam variasi, pada dasarnya nasi goreng adalah nasi yang digoreng yang kemudian ditambahi dengan berbagai bumbu untuk kenikmatan yang lebih lagi.\n"
     };
 
     private static String bahan[] = {
-            "250 gram daging sandung lamur\n" + "125 gram campuran kikil sapi\n" + "1 liter air\n" + "125 gram mie basah, siram air panas, tiriskan\n" +
-                    "50 gram bihun basah, rendam sebentar dalam air panas\n" + "75 gram kol, iris halus\n" + "2 buah tomat, iris halus\n" +
-                    "1  minyak untuk menggoreng\n" + "4 siung bawang putih\n" + "5 buah bawang merah\n" + "1 sdt garam\n" +
-                    "3 buah kemiri\n" + "1/2 sdt merica butiran\n" + "1/2 batang daun bawang, iris halus\n" + "1/2 batang daun seledri, iris halus\n" +
-                    "3 buah risol goreng, iris tipis\n" + "1 sdm bawang goreng\n" + "Emping goreng\n" + "Cuka\n" + "Garam\n" +
-                    "Kecap manis\n" + "Sambal\n" + "Air jeruk limau",
-            "50 gram taoge, buang akarnya, seduh dengan air mendidih, langsung tiriskan\n" + "150 gram sayur kangkung, potong-potong, rebus, langsung tiriskan\n" +
-                    "150 gram sayur bayam, petik daunnya, rebus, langsung tiriskan\n" + "200 gram sayur pare, buang bijinya, kemudian direbus\n" +
-                    "1 buah tahu (8X8 cm) kemudian digoreng\n" + "1 potong tempe (8X8 cm) kemudian digoreng\n" + "1 - 2 sdm bawang goreng\n" +
-                    "3 butir telur rebus, kupas kulitnya emping dan kerupuk goreng\n" + "200 gram kacang tanah, yang digoreng\n" +
-                    "2 buah cabai merah\n" + "5 buah cabai rawit\n" + "1 sdt garam\n" + "1/2 sdt terasi\n" + "1 sdm gula merah\n" + "200 cc air matang",
+            "250\tgram daging sandung lamur\n" + "125\tgram campuran kikil sapi\n" + "1\tliter air\n" + "125\tgram mie basah, siram air panas, tiriskan\n" +
+                    "50\tgram bihun basah, rendam sebentar dalam air panas\n" + "75\tgram kol, iris halus\n" + "2\tbuah tomat, iris halus\n" +
+                    "1\tminyak untuk menggoreng\n" + "4\tsiung bawang putih\n" + "5\tbuah bawang merah\n" + "1\tsdt garam\n" +
+                    "3\tbuah kemiri\n" + "1/2\tsdt merica butiran\n" + "1/2\tbatang daun bawang, iris halus\n" + "1/2\tbatang daun seledri, iris halus\n" +
+                    "3\tbuah risol goreng, iris tipis\n" + "1\tsdm bawang goreng\n" + "Emping goreng\n" + "Cuka\n" + "Garam\n" +
+                    "Kecap manis\n" + "Sambal\n" + "Air jeruk limau\n\n",
+            "50\tgram taoge, buang akarnya, seduh dengan air mendidih, langsung tiriskan\n" + "150 gram sayur kangkung, potong-potong, rebus, langsung tiriskan\n" +
+                    "150\t gram sayur bayam, petik daunnya, rebus, langsung tiriskan\n" + "200\tgram sayur pare, buang bijinya, kemudian direbus\n" +
+                    "1\tbuah tahu (8X8 cm) kemudian digoreng\n" + "1\tpotong tempe (8X8 cm) kemudian digoreng\n" + "1 - 2\tsdm bawang goreng\n" +
+                    "3\tbutir telur rebus, kupas kulitnya emping dan kerupuk goreng\n" + "200\tgram kacang tanah, yang digoreng\n" +
+                    "2\tbuah cabai merah\n" + "5\tbuah cabai rawit\n" + "1\tsdt garam\n" + "1/2\tsdt terasi\n" + "1\tsdm gula merah\n" + "200 cc air matang\n\n",
             "1 ekor ayam kampung ukuran sedang\n" + "150 ml santan kental \n" + "2 sdm minyak goreng \n" + "3 siung bawang putih \n" + "2 butir kemiri \n" + "3 buah cabai besar kering \n" +
-                    "5 buah cabai rawit \n" + "1/2 sdt terasi \n" + "garam secukupnya",
+                    "5 buah cabai rawit \n" + "1/2 sdt terasi \n" + "garam secukupnya\n\n",
             "6 siung bawang merah\n" + "4 siung bawang putih\n" + "6 cm kunyit\n" + "1 sdm ketumbar\n" + "8 buah cabai keriting\n" + "1 sdt jinten\n" + "3 cm jahe\n" + "5 lbr daun jeruk\n"
                     + "2 batang serai\n" + "5 cm lengkuas\n" + "1 sdm garam\n" + "50 gram tepung beras\n" + "600 ml air\n" + "100 gram kacang tanah, sangrai, tumbuk kasar\n",
             "100 gr beras ketan putih, dicuci bersih dan direndam dengan air kurang lebih 2 jam\n" + "4 butir telur bebek\n" + "4 sdm bawang goreng\n" +
-                    "4 sdm serundeng\n" + "4 buah cabai rawit, iris halus\n" + "2 sdt garam\n" + "1 sdt lada bubuk\n" + "1 sdt gula pasir\n" + "4 sdm ebi bubuk\n",
-            "250 gram Tepung sagu\n" + "2 siung Bawang putih \n" + "1/2 sdm Garam \n" + "4 gelas Air \n",
+                    "4 sdm serundeng\n" + "4 buah cabai rawit, iris halus\n" + "2 sdt garam\n" + "1 sdt lada bubuk\n" + "1 sdt gula pasir\n" + "4 sdm ebi bubuk\n\n",
+            "250 gram Tepung sagu\n" + "2 siung Bawang putih \n" + "1/2 sdm Garam \n" + "4 gelas Air \n\n",
             "10 buah Tahu sumedang \n" + "1 sdm kecap manis\n" + "1 sdm kecap asin\n" + "2 sdm air asam jawa\n" + "Gula merah (sisir halus, 3 sdm)\n" +
-                    "1/2 gelas air putih\n" + "Minyak goreng panas (secukupnya)\n" + "4 siung bawang merah\n" + "2 siung bawang putih\n" + "9 buah cabai rawit \n" + "Garam (secukupnya)",
+                    "1/2 gelas air putih\n" + "Minyak goreng panas (secukupnya)\n" + "4 siung bawang merah\n" + "2 siung bawang putih\n" + "9 buah cabai rawit \n" + "Garam (secukupnya)\n",
             "300 g Beras , cuci bersih\n" + "450 ml Santan kelapa kental \n" + "2 lbr Daun salam muda \n" + "2 butir Cengkeh \n" +
-                    "2 batang Serai , memarkan\n" + "2 cm Kayu manis \n" + "1 sdt Merica \n" + "1 sdt Garam ",
+                    "2 batang Serai , memarkan\n" + "2 cm Kayu manis \n" + "1 sdt Merica \n" + "1 sdt Garam\n\n",
             "4 gelas takar beras \n" + "6 ekor cumi asin (rendam air panas, potong sesuai keinginan) \n" + "3 lbr daun salam \n" +
-                    "2 batang serai digeprek \n" + "4 biji cabai merah (iris kasar) \n" + "garam secukupnya \n" + "5 sdm minyak goreng ",
+                    "2 batang serai digeprek \n" + "4 biji cabai merah (iris kasar) \n" + "garam secukupnya \n" + "5 sdm minyak goreng\n\n",
             "2 piring nasi\n" + "3 buah cabai merah besar, potong-potong\n" + "3 buah cabai rawit, cincang halus\n" + "5 butir bawang merah, cincang halus\n" +
                     "2 siung bawang putih, cincang halus\n" + "1/2 sdt terasi matang\n" + "2 sdm kecap manis\n" + "1 sdt garam\n" + "1 butir telur ayam\n" +
-                    "Ayam suwir secukupnya\n" + "Minyak goreng"
+                    "Ayam suwir secukupnya\n" + "Minyak goreng\n\n"
     };
 
     private static String cara[] = {

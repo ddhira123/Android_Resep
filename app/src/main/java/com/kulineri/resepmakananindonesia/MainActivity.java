@@ -8,7 +8,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toast;
 
 import com.kulineri.resepmakananindonesia.adapter.ListMakananAdapter;
 import com.kulineri.resepmakananindonesia.model.DataMakanan;
@@ -22,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<Makanan> list = new ArrayList<>();
 
     private void showSelected(Makanan food) {
-        Toast.makeText(this, "Kamu memilih " + food.getName(), Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this, "Kamu memilih " + food.getName(), Toast.LENGTH_SHORT).show();
         Intent data = new Intent(MainActivity.this, DetilMakanan.class);
         data.putExtra(DetilMakanan.EXTRA_NAMA, food.getName());
         data.putExtra(DetilMakanan.EXTRA_IMG, food.getPhoto());
@@ -64,12 +63,10 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.action_about:
-                // User chose the "Settings" item, show the app settings UI...
-                title="About";
-                startActivity(new Intent(this, About1.class));
-                break;
+        if(item.getItemId() == R.id.action_about) {
+            Intent abt = new Intent(getApplicationContext(), About1.class);
+            this.startActivity(abt);
+            return true;
         }
         return super.onOptionsItemSelected(item);
     }

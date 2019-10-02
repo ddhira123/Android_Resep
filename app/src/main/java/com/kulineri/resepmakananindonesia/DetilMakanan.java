@@ -30,7 +30,7 @@ public class DetilMakanan extends AppCompatActivity {
         String bahan = getIntent().getStringExtra(EXTRA_BAHAN);
         int img = getIntent().getIntExtra(EXTRA_IMG, 0);
 
-        tvNama.setText(nama);
+        tvNama.setText("Deskripsi");
         tvDesk.setText(desk);
         tvBhn.setText(bahan);
         tvCara.setText(cara);
@@ -38,6 +38,7 @@ public class DetilMakanan extends AppCompatActivity {
 
         assert getSupportActionBar() != null;   //null check
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);   //show back button
+        getSupportActionBar().setTitle(nama);
     }
 
     @Override
